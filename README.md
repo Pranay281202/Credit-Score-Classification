@@ -1,5 +1,6 @@
 # Credit-Score-Classification
-Welcome to my Credit Score Classification project! This project demonstrates my proficiency in constructing and evaluating machine learning models to predict individual credit scores accurately. Implemented in a Jupyter Notebook, I utilized Python along with essential machine learning libraries like NumPy, Pandas, and Plotly. The dataset employed is a simulated collection of individual profiles and their associated credit scores, forming the basis for training and evaluating diverse machine learning models.
+Welcome to my Credit Score Classification project! This project demonstrates my proficiency in constructing and evaluating machine learning models to predict individual credit scores accurately. Implemented in a Jupyter Notebook, I utilized Python along with essential machine learning libraries like NumPy, Pandas, and Plotly.
+The dataset employed is a simulated collection of individual profiles and their associated credit scores, forming the basis for training and evaluating diverse machine learning models.
 
 The project begins with an in-depth exploratory data analysis, uncovering valuable insights into the dataset's nuances and establishing connections between various features and credit scores. This understanding guides the subsequent data preprocessing steps to ensure optimal model training conditions.
 
